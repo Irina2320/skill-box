@@ -8,6 +8,5 @@ while number != 0:
         print('Обнаружен разрыв')
         break
     number //= 10
-    print('Текущая сумма: ', summa)
-
+   
 print('\nИтоговая сумма цифр: ', summa)
