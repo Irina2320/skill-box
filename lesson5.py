@@ -8,4 +8,4 @@ def sum_factorials(num):
     return summa
 
 n = int(input('Введите число: '))
-print(sum_factorials(n))
+print('Факториал числа', n,' = ', sum_factorials(n))
